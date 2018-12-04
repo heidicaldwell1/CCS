@@ -1,0 +1,14 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width; height=device-height;"></meta>
+<link rel="stylesheet" href="resource://content-accessible/ImageDocument.css"></link>
+<link rel="stylesheet" href="resource://content-accessible/topLevelImageDocument.css"></link>
+<link rel="stylesheet" href=chrome://global/skin/media/TopLevelImageDocument.css"></link>
+<title>mockup.jpg (JPEG Image, 1346 * 1721 pixels)</title>
+</head>
+<body>
+<img class="overflowingVertical" src="https://cdn.filestackcontent.com/2UbLyccqTTKn4VcqJZuZ"
+alt="https://cdn.filestackcontent.com/2UbLyccqTTKn4VcqJZuZ"></img>
+<div></div>
+</body>
+</html>
